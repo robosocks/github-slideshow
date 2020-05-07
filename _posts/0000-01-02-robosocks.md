@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your Text
+The Force will be with you. Always. 
 Use the left arrow to go back!
 
